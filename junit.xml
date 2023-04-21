@@ -1,0 +1,36 @@
+<testsuites name="jest tests" tests="16" failures="0" time="18.125">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2023-04-21T08:02:13" time="18.125" tests="16">
+    <testcase classname=" should create the catalog-viewer app" name=" should create the catalog-viewer app" time="0.075">
+    </testcase>
+    <testcase classname=" page should contain the catalog UI elements" name=" page should contain the catalog UI elements" time="0.041">
+    </testcase>
+    <testcase classname=" should catalog-view load with first item of catalog" name=" should catalog-view load with first item of catalog" time="0.019">
+    </testcase>
+    <testcase classname=" catalog thumb icons length should be equal to catalog items length" name=" catalog thumb icons length should be equal to catalog items length" time="0.048">
+    </testcase>
+    <testcase classname=" Clicking on previous button should show the previous image" name=" Clicking on previous button should show the previous image" time="0.035">
+    </testcase>
+    <testcase classname=" Clicking on next button should show the next image" name=" Clicking on next button should show the next image" time="0.031">
+    </testcase>
+    <testcase classname=" Clicking on next button in the last item should show the first image" name=" Clicking on next button in the last item should show the first image" time="0.036">
+    </testcase>
+    <testcase classname=" Clicking on previous button in the first item should show the last image" name=" Clicking on previous button in the first item should show the last image" time="0.034">
+    </testcase>
+    <testcase classname=" Clicking on any indicator icon should show the appropriate image" name=" Clicking on any indicator icon should show the appropriate image" time="0.02">
+    </testcase>
+    <testcase classname=" when slide enabled should change the image for every 3 seconds" name=" when slide enabled should change the image for every 3 seconds" time="6.078">
+    </testcase>
+    <testcase classname=" when slide enabled also user interaction like previous, next or indicator should work as expected" name=" when slide enabled also user interaction like previous, next or indicator should work as expected" time="3.079">
+    </testcase>
+    <testcase classname=" uncheck slide should stop changing the image for every 3 seconds" name=" uncheck slide should stop changing the image for every 3 seconds" time="6.085">
+    </testcase>
+    <testcase classname=" click on catalog thumb should update the viewer image" name=" click on catalog thumb should update the viewer image" time="0.034">
+    </testcase>
+    <testcase classname=" the first catalog thumb should have a background image &quot;/mobile-front-thumb.jpeg&quot;" name=" the first catalog thumb should have a background image &quot;/mobile-front-thumb.jpeg&quot;" time="0.016">
+    </testcase>
+    <testcase classname=" selected thumb should be highlighted with blue border by applying css class &quot;thumb-selected" name=" selected thumb should be highlighted with blue border by applying css class &quot;thumb-selected" time="0.031">
+    </testcase>
+    <testcase classname=" catalog view should display first img element by default" name=" catalog view should display first img element by default" time="0.007">
+    </testcase>
+  </testsuite>
+</testsuites>
