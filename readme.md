@@ -33,7 +33,7 @@ To run this project, you'll need the following:
 
    ```sh
    git clone https://github.com/SFD153/React-Catalog-Viewer.git
-   cd react-catalog-viewer
+   cd React-Catalog-Viewer
 
 2. Install dependencies:
 
