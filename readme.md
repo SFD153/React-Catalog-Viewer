@@ -15,7 +15,6 @@ Welcome to the React Catalog Viewer project! This application is designed to dis
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
 - [Contributing](#contributing)
 
 ## Getting Started
@@ -52,10 +51,6 @@ To run this project, you'll need the following:
 1. Upon opening the application, you'll see the catalog of items.
 2. Click on an item to view its detailed information.
 3. Use the search bar to search for specific items by keywords.
-
-## Configuration
-- Customize the catalog data in the src/data/items.js file.
-- Modify the styles and layout in the src/styles folder to match your design preferences.
 
 ## Contributing
 Contributions are welcome! If you encounter any bugs or have ideas for improvements, feel free to open an issue or submit a pull request.
